@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drisAloma
 - 👀 I’m interested in Data science and Machine learning
-- 🌱 I’m currently learning Data storytelling through and internship program with HamoyeAI
+- 🌱 I’m currently learning Data storytelling through an internship program with HamoyeAI
 
 <!---
 drisAloma/drisAloma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
